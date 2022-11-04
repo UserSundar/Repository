@@ -1,0 +1,10 @@
+package com.pra.Test;
+
+public class ReadData {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
